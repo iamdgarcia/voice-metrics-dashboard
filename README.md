@@ -9,6 +9,8 @@ short_description: KPIs & timeline for voice-agent transcripts, in-browser
 ---
 
 # Voice Metrics Dashboard
+**▶ Try it live:** <https://iamdgarcia-voice-metrics-dashboard.static.hf.space> · **Code on GitHub:** <https://github.com/iamdgarcia/voice-metrics-dashboard>
+
 
 Paste a voice-agent transcript JSON → instant conversation KPIs, turn timeline and gap analysis.
 100% in-browser (vanilla JS + Chart.js), nothing uploaded.
