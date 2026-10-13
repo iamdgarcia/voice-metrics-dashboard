@@ -6,6 +6,10 @@ colorTo: green
 sdk: static
 app_file: index.html
 short_description: KPIs & timeline for voice-agent transcripts, in-browser
+tags:
+- voice-agent
+- conversation-analytics
+- kpi
 ---
 
 # Voice Metrics Dashboard
@@ -25,3 +29,5 @@ interruptions (overlapping turns) · words/second · estimated containment (hand
 
 KPI thinking from *trajectory grammars for voice-agent conversations* (D. García Peña) —
 research: https://huggingface.co/iamdgarcia
+
+📖 Full writeup: [https://iamdgarcia.medium.com/watching-your-voice-agent-think-three-instruments-you-can-open-in-a-browser-tab-f7ed16ec2a2a](https://iamdgarcia.medium.com/watching-your-voice-agent-think-three-instruments-you-can-open-in-a-browser-tab-f7ed16ec2a2a) — *Watching your voice agent think* (D. García Peña).
